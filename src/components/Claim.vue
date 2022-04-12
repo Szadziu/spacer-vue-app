@@ -24,7 +24,7 @@ export default {
   justify-content: center;
   align-items: center;
 
-  color: crimson;
+  color: white;
 }
 
 .claim {
